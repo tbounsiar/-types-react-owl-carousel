@@ -20,11 +20,14 @@
     "#USER"
   ],
   "_spec": "@types/react-owl-carousel@^2.2.0",
-  "_where": "D:\\work\\web\\com",
   "bundleDependencies": false,
-  "contributors": [],
+  "contributors": [
+    {
+      "name": "T BOUNSIAR",
+      "url": "https://github.com/tbounsiar"
+    }
+  ],
   "dependencies": {
-    "@types/node": "*",
     "@types/react": "*"
   },
   "deprecated": false,
@@ -32,7 +35,10 @@
   "license": "MIT",
   "main": "",
   "name": "@types/react-owl-carousel",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
   "scripts": {},
   "typeScriptVersion": "2.7",
   "version": "2.2.0"
