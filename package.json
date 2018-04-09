@@ -1,0 +1,39 @@
+{
+  "_from": "@types/react-owl-carousel@^2.2.0",
+  "_id": "@types/react-owl-carousel@^2.2.0",
+  "_inBundle": false,
+  "_location": "/@types/react-owl-carousel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@types/react-owl-carousel@^2.2.0",
+    "name": "@types/react-owl-carousel",
+    "escapedName": "@types%2freact-owl-carousel",
+    "scope": "@types",
+    "rawSpec": "^2.2.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.2.0"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_spec": "@types/react-owl-carousel@^2.2.0",
+  "_where": "D:\\work\\web\\com",
+  "bundleDependencies": false,
+  "contributors": [],
+  "dependencies": {
+    "@types/node": "*",
+    "@types/react": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for react-owl-carousel",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/react-owl-carousel",
+  "repository": {},
+  "scripts": {},
+  "typeScriptVersion": "2.7",
+  "version": "2.2.0"
+}
