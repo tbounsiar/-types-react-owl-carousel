@@ -1,5 +1,5 @@
 # Installation
-> `npm install --save-dev https://github.com/tbounsiar/react-owl-carousel`
+> `npm install --save-dev @types/react-owl-carousel`
 
 # Summary
 This package contains type definitions for react-owl-carousel (https://github.com/seal789ie/react-owl-carousel).
